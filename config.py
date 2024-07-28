@@ -1,5 +1,5 @@
 # config.py
-API_ID = 'your_api_id'
-API_HASH = 'your_api_hash'
-BOT_TOKEN = 'your_bot_token'
-OWNER_ID = your_owner_id  # Replace with your Telegram user ID
+API_ID = '22179597'
+API_HASH = '72a54a3b2a449b5b7dd0c75da9a1487d'
+BOT_TOKEN = '7208627178:AAEuAUEPUDtn_wVZ9HoAjP5s8nCmEmLkIaI'
+OWNER_ID = 7037451646  # Replace with your Telegram user ID
